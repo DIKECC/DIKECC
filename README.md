@@ -3,6 +3,6 @@
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
 - <b>Looker</b>
-  - [Lab](https://github.com/DIKECC/Lookerlab)
+  - [Prepare Data for Looker Dashboards and Reports:Lab](https://github.com/DIKECC/Lookerlab)
 
   
