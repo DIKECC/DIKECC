@@ -7,5 +7,6 @@
 
 <h2>🌐 Cloud Computing:</h2>
 
-- <b>Azure</b>
+- <b>Azure ⏳</b>
+
 
