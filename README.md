@@ -6,7 +6,8 @@
   - [Prepare Data for Looker Dashboards and Reports: Lab](https://github.com/DIKECC/Lookerlab)
   
 - <b>SQL</b>
-  
+    - [The Complete SQL Bootcamp (Udemy) - Assessment Solutions](https://github.com/DIKECC/SQL-Bootcamp)
+
 
 <h2>🌐 Cloud Computing </h2>
 
