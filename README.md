@@ -1,9 +1,12 @@
 <h1>Hi, I am Dike</h1>
 
-<h2>📊 BI Tools </h2>
+<h2>📊 Data Analysis </h2>
 
 - <b>Looker</b>
   - [Prepare Data for Looker Dashboards and Reports: Lab](https://github.com/DIKECC/Lookerlab)
+  
+- <b>SQL</b>
+  
 
 <h2>🌐 Cloud Computing </h2>
 
