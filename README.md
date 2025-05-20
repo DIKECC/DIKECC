@@ -7,6 +7,6 @@
 
 <h2>🌐 Cloud Computing </h2>
 
-- <b>Azure ⏳</b>
-
+- <b>Azure</b>
+  - [Microsoft Certified: Azure Fundamentals](https://github.com/DIKECC/Az-900)
 
