@@ -2,11 +2,13 @@
 
 <h2>📊 Data Analysis </h2>
 
-- <b>Looker</b>
+- <b>Looker Projects</b>
   - [Prepare Data for Looker Dashboards and Reports: Lab](https://github.com/DIKECC/Lookerlab)
-  - [Microsoft Certified: Azure Data Fundamentals](https://github.com/DIKECC/DP-900)
+
+ - <b>Data Projects</b>
+   - [Microsoft Certified: Azure Data Fundamentals](https://github.com/DIKECC/DP-900)
   
-<h2>🌐 Cloud Computing </h2>
+<h2>🌐 Infrastructure </h2>
 
 - <b>Azure</b>
   - [Microsoft Certified: Azure Administrator Associate](https://github.com/DIKECC/Az-104)
